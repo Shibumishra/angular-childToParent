@@ -1,0 +1,38 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+p {
+  font-family: Lato;
+}
+
+.EGY {
+  color: green;
+  width: 100%;
+  font-family: arial;
+  padding: 3px;
+}
+
+.CA {
+  color: red;
+  width: 100%;
+  font-family: arial;
+  padding: 3px;
+}
+
+.FR {
+  color: blue;
+  width: 100%;
+  font-family: arial;
+  padding: 3px;
+}
+.Other {
+  color: black;
+  width: 100%;
+  font-family: arial;
+  padding: 3px;
+}
